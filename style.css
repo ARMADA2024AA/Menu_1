@@ -35,3 +35,26 @@ ul:hover li{
 body{
   background-color: black;
 }
+#RustURL{
+  color: red;
+  text-decoration: none;
+}
+#RustURL.hover {
+  text-decoration: underline;
+}
+
+#counter_strike_2URL{
+  color: orange;
+  text-decoration: none;
+}
+#counter_strike_2URL.hover {
+  text-decoration: underline;
+}
+
+#SatisfactoryURL{
+  color: orange;
+  text-decoration: none;
+}
+#SatisfactoryURL.hover {
+  text-decoration: underline;
+}
