@@ -1,0 +1,37 @@
+ul{
+  background-color: black;
+  width: 500px;
+  color: white;
+  padding: 1%
+  position: absolute
+  
+  
+}
+ul li{
+  
+  margin: 5%;
+  padding: 5%;
+  text-align: center;
+  display: none
+}
+li1{
+   background-color: purple;
+   color: red
+}
+li2{
+  background-color: brown;
+  color: orange
+}
+li3{
+   background-color: blue;
+   color: orange
+}
+
+ul:hover li{
+  display:block;
+}
+
+
+body{
+  background-color: black;
+}
